@@ -7,6 +7,6 @@ const Card = (props) => {
     // return React.createElement('div', {className: classes}, props.children) --> How react works without JSX syntax
 
     return <div className={classes}>{props.children}</div>
-}
+};
 
 export default Card;
