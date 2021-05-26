@@ -1,3 +1,4 @@
+import React from "react"; // we don't need import this in the modern React
 import Expenses from "./components/Expenses";
 
 function App() {

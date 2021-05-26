@@ -1,3 +1,4 @@
+import React from "react"; // we don't need import this in the modern React
 import Card from "./Card";
 import ExpenseItem from "./ExpenseItem";
 import './Expenses.css';
