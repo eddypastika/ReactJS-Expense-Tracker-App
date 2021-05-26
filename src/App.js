@@ -1,5 +1,5 @@
 import React from "react"; // we don't need import this in the modern React
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Expenses/Expenses";
 
 function App() {
     const expenses = [
